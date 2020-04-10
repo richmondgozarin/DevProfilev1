@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">DevProfile</string>
+    <string name="app_profile_name">Richmond Gozarin</string>
+
+    <string name="app_banner">Banner</string>
+    <string name="app_logo">Logo</string>
+
+    <string name="app_camera">Camera</string>
+    <string name="app_star">Star</string>
+    <string name="app_inbox">Inbox</string>
+
+    <string name="app_profile_text">Profile Text</string>
+    <string name="app_data_image">Data</string>
+    <string name="app_photo_image">Photos</string>
+    <string name="app_video_image">Videos</string>
+    <string name="app_code_image">Code</string>
 </resources>
